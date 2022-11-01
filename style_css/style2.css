@@ -1,0 +1,26 @@
+header{
+    background-color: #FA8258;
+    color: white;
+
+}
+header ul a{
+    color: white;
+}
+header ul a:hover{
+    color: black;
+}
+
+h3{
+    text-align: center;
+    color: crimson;
+}
+.form-label{
+    font-weight: bold;
+}
+
+.dangky{
+    margin: 20px 0 30px;
+}
+.dangnhap{
+    margin: 20px 0 50px;
+}
